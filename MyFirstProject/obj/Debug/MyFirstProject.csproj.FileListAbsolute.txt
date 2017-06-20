@@ -1,0 +1,6 @@
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
