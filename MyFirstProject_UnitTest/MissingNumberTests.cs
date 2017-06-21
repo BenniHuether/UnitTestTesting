@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using static MyFirstProject.MissingNumber;
 
 namespace MyFirstProject.Tests
@@ -15,7 +16,7 @@ namespace MyFirstProject.Tests
         [TestMethod()]
         public void GetMissingNumberTest1()
         {
-            // Initialize 
+            // Arrange 
             int[] input = { 0, 2, 3 };
             int[] expected = { 1 };
 
@@ -30,7 +31,7 @@ namespace MyFirstProject.Tests
         [TestMethod()]
         public void GetMissingNumberTest2()
         {
-            // Initialize 
+            // Arrange 
             int[] input = { 1, 3 };
             int[] expected = { 0, 2 };
 
@@ -45,7 +46,7 @@ namespace MyFirstProject.Tests
         [TestMethod()]
         public void GetMissingNumberTest3()
         {
-            // Initialize 
+            // Arrange 
             int[] input = { 4, 2, 3 };
             int[] expected = { 0, 1 };
 

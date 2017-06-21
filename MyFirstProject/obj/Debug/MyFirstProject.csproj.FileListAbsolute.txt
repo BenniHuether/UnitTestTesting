@@ -4,3 +4,13 @@ C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProj
 C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
 C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
 C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\benjamin.huether\Source\Repos\MyFirstProject\MyFirstProject\MyFirstProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml

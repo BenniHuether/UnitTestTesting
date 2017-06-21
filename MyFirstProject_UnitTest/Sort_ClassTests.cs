@@ -12,15 +12,9 @@ namespace MyFirstProject.Tests
     public class Sort_ClassTests
     {
         [TestMethod()]
-        public void Sort_ClassTest()
-        {
-
-        }
-
-        [TestMethod()]
         public void Simple_SortTest1()
         {
-            // Initialize
+            // Arrange
             string input = "cba";
             string expected =  "abc";
 
@@ -35,7 +29,7 @@ namespace MyFirstProject.Tests
         [TestMethod]
         public void Simple_SortTest2()
         {
-            // Initialize
+            // Arrange
             string input = "dgehf";
             string expected = "defgh";
 
@@ -49,7 +43,8 @@ namespace MyFirstProject.Tests
         [TestMethod]
         public void Simple_SortTest3()
         {
-            // Initialize
+            // Arrange
+
             string input = "zxyw";
             string expected = "wxyz";
 
