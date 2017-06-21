@@ -13,6 +13,13 @@ namespace MyFirstProject.Tests
     [TestClass()]
     public class MissingNumberTests
     {
+        [AssemblyInitialize()]
+        public static void AssemblyInit(TestContext context)
+        {
+            MessageBox.Show("AssemblyInit " + context.TestName);
+        }
+
+        [Ignore()]
         [TestMethod()]
         public void GetMissingNumberTest1()
         {
